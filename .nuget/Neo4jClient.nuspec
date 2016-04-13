@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Neo4jClient</id>
+    <version>1.1.1.6-beta</version>
+    <authors>Readify</authors>
+    <owners>Tatham Oddie</owners>
+    <licenseUrl>https://github.com/Readify/Neo4jClient/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Readify/Neo4jClient</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A .NET client for neo4j: an open source, transactional graph database. It's pretty awesome.</description>
+    <tags>neo4j nosql cypher</tags>
+    <dependencies>
+      <dependency id="System.Net.Http" version="4.0.1-beta-23516" />
+      <dependency id="Newtonsoft.Json" version="8.0.3" />
+    </dependencies>
+  </metadata>
+</package>
